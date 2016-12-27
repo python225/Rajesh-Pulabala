@@ -1,0 +1,6 @@
+aNode Name,Status,Node Plateform,Starting Time And Date,Ending Time And Date,Total_Run_Time,Reboot,Number of packages updated is,Package names
+centos-test-vm,Success,centos,2016-11-10 19:27:49 UTC,2016-11-10 19:28:03 +0000 seconds,13.827441731 seconds,Yes,7,bind-libs-lite.x86_64;bind-license.noarch;openssl.x86_64;openssl-libs.x86_64;python-perf.x86_64;tzdata.noarch
+redhat-test-vm,Success,redhat,2016-11-10 19:28:09 UTC,2016-11-10 14:28:43 -0500 seconds,33.79442561 seconds,Yes,7,"amazon-id,;libgcrypt-1.5.3-13.el7_3.1.x86_64;libgudev1-219-30.el7_3.6.x86_64;systemd-219-30.el7_3.6.x86_64;systemd-libs-219-30.el7_3.6.x86_64;systemd-sysv-219-30.el7_3.6.x86_64;tzdata-2016i-1.el7.noarch"
+
+
+
